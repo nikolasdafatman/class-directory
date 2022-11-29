@@ -65,3 +65,11 @@
 ---
 
 
+## Kelvin Konkel
+
+* email: kelvinsmotherboard@gmail.com
+* github: KelvinKonkel
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO2gzbGx5uDtd3sYX/MBhu/jgYj9K715Mxu7Qea5SDR0 kelvinsmotherboard@gmail.com
+
+---
+
