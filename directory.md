@@ -39,3 +39,11 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOQSgebrTD/K4kOADuqET5VdJEV+0YzvdZrmV1mBO7bD wemplematt@gmail.com
 
 ---
+
+## Alex Kortge
+
+* email: amkortge@gmail.com
+* github: AlexKortge
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM5dXesxRPyQ/ELwzbgiwE95DWDr8ZFlI1OZNoIAYt6P amkortge@gmail.com
+
+---
