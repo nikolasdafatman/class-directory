@@ -135,6 +135,14 @@
 
 ---
 
+## Alex Kortge
+
+* email: amkortge@gmail.com
+* github: AlexKortge
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM5dXesxRPyQ/ELwzbgiwE95DWDr8ZFlI1OZNoIAYt6P amkortge@gmail.com
+
+---
+
 ## Kelvin Konkel
 
 * email: kelvinsmotherboard@gmail.com
@@ -149,3 +157,4 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHrhGvR9fiy4ZD+1+E+SKzIhRFJYEnBh5JL93x7dQEIq christensenj280@gmail.com
 
 ---
+
