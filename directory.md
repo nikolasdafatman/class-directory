@@ -158,3 +158,6 @@
 
 ---
 
+## Nikolas Miranda
+nikolasmmiranda@gmail.com
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK1VwXDSLZ1ULZCrFP0qQ0nyQxdvcnP9F/7IScUJrGCQ nikolasmmiranda@gmail.com
